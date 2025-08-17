@@ -6,3 +6,5 @@ This project calculates simple interest based on principal, rate, and time.
 Run the script using:
 ```bash
 bash simple-interest.sh
+
+change
