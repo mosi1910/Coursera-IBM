@@ -8,3 +8,5 @@ Run the script using:
 bash simple-interest.sh
 
 change
+
+change 2
